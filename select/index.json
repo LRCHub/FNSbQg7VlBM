@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "8.32  Covered by あらき",
+  "base_artist": "あらき",
+  "createdAt": "2026-03-03T07:25:49.524085Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "8.32",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/01_8.32_Luna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "8.32",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/02_8.32_Luna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "8.32",
+      "artist": "*Luna feat. v flower",
+      "has_synced": false,
+      "path": "select/03_8.32_Luna_feat._v_flower.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "8.32",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/04_8.32_Luna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "8.32（cover）/ 相沢",
+      "artist": "Aizawa channel",
+      "has_synced": true,
+      "path": "select/05_8.32(cover)__相沢_Aizawa_channel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "8.32",
+      "artist": "あらき",
+      "has_synced": false,
+      "path": "select/pl_01_8.32_あらき.txt"
+    }
+  ]
+}
